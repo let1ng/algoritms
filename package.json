@@ -1,0 +1,19 @@
+{
+  "name": "algoritms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/sort/hello.js",
+    "test": "npm run eslint",
+    "eslint": "eslint --ext .js src/"
+  },
+  "author": "let1ng",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.19.0"
+  },
+  "devDependencies": {
+    "eslint-config-htmlacademy": "0.6.0"
+  }
+}
